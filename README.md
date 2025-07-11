@@ -15,4 +15,8 @@
 - [Python-OOP-Practice](https://github.com/subesh-cse/Python-OOP-Practice)
 - [ML-Projects](https://github.com/subesh-cse/ML-Projects)
 
+
+📫 Connect with me on [LinkedIn] or shoot me an email at subeshupadhyay@gmail.com
+
+
 Let's connect and grow 🚀
