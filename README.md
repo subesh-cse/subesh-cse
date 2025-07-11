@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Subesh!
 
-<!--
-**subesh-cse/subesh-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | Machine Learning Minor  
+🧠 Learning Python, SQL, and Data Science  
+⚡ Working on real projects and problem solving  
+🔍 Actively looking for internship opportunities
 
-Here are some ideas to get you started:
+### 💻 Tech Skills
+- Python, Pandas, NumPy, Matplotlib
+- MySQL, Git, Google Colab
+- Machine Learning (XGBoost, Regression, EDA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Repositories I'm Building
+- [Python-Logic-Practice](https://github.com/subesh-cse/Python-Logic-Practice)
+- [Python-OOP-Practice](https://github.com/subesh-cse/Python-OOP-Practice)
+- [ML-Projects](https://github.com/subesh-cse/ML-Projects)
+
+Let's connect and grow 🚀
