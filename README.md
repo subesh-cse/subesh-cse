@@ -1,22 +1,30 @@
 # 👋 Hi, I'm Subesh!
 
-🎓 B.Tech CSE Student | Machine Learning Minor  
-🧠 Learning Python, SQL, and Data Science  
-⚡ Working on real projects and problem solving  
-🔍 Actively looking for internship opportunities
+🎓 **B.Tech CSE Student** | **Machine Learning Minor**  
+🧠 Currently learning **Python**, **SQL**, and **Data Science**  
+⚡ Working on real-world projects and solving coding problems  
+🔍 Actively looking for **internship opportunities** in ML/Data Science
 
-### 💻 Tech Skills
-- Python, Pandas, NumPy, Matplotlib
-- MySQL, Git, Google Colab
-- Machine Learning (XGBoost, Regression, EDA)
+---
 
-### 📌 Repositories I'm Building
-- [Python-Logic-Practice](https://github.com/subesh-cse/Python-Logic-Practice)
-- [Python-OOP-Practice](https://github.com/subesh-cse/Python-OOP-Practice)
-- [ML-Projects](https://github.com/subesh-cse/ML-Projects)
+## 💻 Tech Skills
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **ML:** Scikit-Learn, XGBoost, Regression, EDA  
+- **Tools:** MySQL, Google Colab, Git, GitHub  
 
+---
 
-📫 Connect with me on [LinkedIn] or shoot me an email at subeshupadhyay@gmail.com
+## 📌 Projects & Repositories (WIP)
+- 🔹 [Python-Logic-Practice](https://github.com/yourusername/python-logic-practice) – Problem-solving with Python
+- 🔹 [Python-OOP-Practice](https://github.com/yourusername/python-oop-practice) – OOP Concepts in Python
+- 🔹 [ML-Projects](https://github.com/yourusername/ml-projects) – Mini ML projects using real datasets
 
+---
 
-Let's connect and grow 🚀
+## 📫 Contact Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+- 📧 subeshupadhyay@gmail.com  
+
+Let’s connect and grow together 🚀
+
