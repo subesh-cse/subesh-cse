@@ -1,89 +1,134 @@
 # Hi, I'm Subesh 👋
 
-🎓 B.Tech CSE Student  
-📊 Machine Learning & Data Science Enthusiast  
-💻 Python | Scikit-learn | TensorFlow  
-🎯 Actively seeking internships
+🎓 B.Tech Computer Science Student  
+🤖 Machine Learning Enthusiast  
+🐍 Python | Scikit-learn | Pandas | NumPy  
+📊 Interested in building practical end-to-end ML systems
 
 ---
 
-I am a Computer Science undergraduate with hands-on experience in
-Machine Learning and Data Science projects.
+# 🚀 Featured Projects
 
-I enjoy building end-to-end ML solutions, working with real datasets,
-and visualizing results to gain insights. Currently strengthening my
-core ML skills and preparing for internship opportunities.
+## 🧠 AI Resume – Job Description Matcher
 
-## 🛠 Skills
+An intelligent system that evaluates how well a resume matches a job description using **NLP techniques and a hybrid scoring approach**.
 
-**Languages**
-- Python
-- Java
-- C++
+The project simulates an automated hiring assistant by combining **TF-IDF similarity with rule-based signals** such as skill overlap and experience indicators.
 
-**Machine Learning & Data Science**
-- NumPy
-- Pandas
-- Scikit-learn
-- TensorFlow / Keras
+### Key Features
 
-**Visualization**
-- Matplotlib
-- Seaborn
+- Resume vs Job Description similarity analysis
+- Section-based resume understanding
+- Hybrid scoring system
+- TF-IDF + cosine similarity
+- OCR fallback for scanned resumes
+- Explainable match scoring
+- Streamlit interface
+- Recruiter mode for ranking resumes
 
-**Tools & Platforms**
-- Git & GitHub
-- Jupyter Notebook
-- Anaconda
-- Google Colab
+### Tech Stack
 
-**Soft Skills**
-- Problem Solving
-- Analytical Thinking
-- Adaptability
+Python  
+scikit-learn  
+Streamlit  
+pdfplumber  
+pytesseract  
+pdf2image  
 
-### 🏠 House Price Prediction
-
-- Built a regression model to predict house prices using the California Housing dataset
-- Performed data preprocessing, handled missing values, and applied feature scaling
-- Trained and compared multiple regression models to improve performance
-- Evaluated model using R² score and Mean Squared Error
-- Visualized feature importance and prediction errors
-
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-🔗 GitHub Repo: https://github.com/subesh-cse/house-price-prediction
+🔗 Repository  
+https://github.com/subesh-cse/ai-resume-matcher
 
 ---
 
-### ✍️ MNIST Digit Classification
+## 📊 Customer Churn Prediction
 
-- Developed a neural network to classify handwritten digits from the MNIST dataset
-- Preprocessed image data and normalized pixel values
-- Built and trained a feedforward neural network using TensorFlow and Keras
-- Evaluated performance using validation data and confusion matrix
-- Visualized predictions and training history
+A machine learning project that predicts whether a telecom customer is likely to **churn (leave the service)** using usage and billing data.
 
-**Tech Stack:** Python, TensorFlow, Keras, NumPy, Matplotlib, Seaborn  
-🔗 GitHub Repo: https://github.com/subesh-cse/mnist-digit-classification
+The project demonstrates a **complete ML pipeline** including preprocessing, feature engineering, model training, evaluation, and deployment.
 
-## 📜 Certifications
+### ML Pipeline
 
-- Complete 2025 Python Bootcamp – Learn Python from Scratch
-- The Ultimate Job Ready Data Science Course
+- Data cleaning
+- Feature engineering
+- Train-test split
+- Feature scaling
+- Model training
+- Model evaluation
+- Streamlit deployment
 
-## 🎓 Education
+### Models Used
 
-**Lovely Professional University, Punjab**  
-B.Tech in Computer Science & Engineering  
-CGPA: 6.3  
+- Logistic Regression  
+- Random Forest Classifier  
 
-**Sunbeam School, Sultanpur (UP)**  
-Intermediate – 68%  
-Matriculation – 88%
+### Evaluation Metrics
 
-## 📫 Contact Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-- 📧 subeshupadhyay@gmail.com  
+- Accuracy
+- Confusion Matrix
+- Classification Report
+- ROC-AUC Score
 
-Let’s connect and grow together 🚀
+Final ROC-AUC Score: **0.86**
+
+### Tech Stack
+
+Python  
+Pandas  
+NumPy  
+Scikit-learn  
+Matplotlib  
+Streamlit  
+Joblib  
+
+🔗 Repository  
+https://github.com/subesh-cse/customer-churn-prediction
+
+---
+
+# 🧠 Skills
+
+### Programming
+
+Python  
+Java  
+C++
+
+### Machine Learning
+
+Data preprocessing  
+Feature engineering  
+Model training  
+Model evaluation  
+Classification models  
+Scikit-learn  
+
+### Data Tools
+
+Pandas  
+NumPy  
+Matplotlib  
+
+### Development Tools
+
+Git  
+GitHub  
+Jupyter Notebook  
+
+---
+
+# 🎯 Current Focus
+
+- Strengthening Machine Learning fundamentals  
+- Building practical ML systems  
+- Preparing for Machine Learning / Data Science internships
+
+---
+
+# 📫 Connect With Me
+
+LinkedIn  
+https://linkedin.com
+
+Email  
+subeshupadhyay@gmail.com
 
