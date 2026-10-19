@@ -23,7 +23,7 @@ Backend-focused developer specializing in building scalable asynchronous REST AP
 ### 📬 Connect With Me
 
 * **GitHub:** [subesh-cse](https://github.com/subesh-cse)
-* **LinkedIn:** [https://www.linkedin.com/in/subesh-upadhyay-415128269/]
+* **LinkedIn:** [subesh-upadhyay](https://www.linkedin.com/in/subesh-upadhyay-415128269)
 
 
 
